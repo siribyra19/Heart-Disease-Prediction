@@ -1,4 +1,3 @@
-XX%
 # 🩺 Heart Disease Prediction using Machine Learning
 
 ## 🚀 Overview
@@ -57,10 +56,10 @@ The following classification algorithms were implemented and compared:
 
 | Model | Accuracy |
 |------|---------|
-| Logistic Regression | XX% |
-| SVM | XX% |
-| Random Forest | XX% |
-| XGBoost | XX% |
+| Logistic Regression | 0.7989130434782609 |
+| SVM | 0.842391304347826 |
+| Random Forest | 0.8532608695652174 |
+| XGBoost | 0.875 |
 
 👉 Best Model: Random Forest / XGBoost (based on highest accuracy & F1-score)
 
