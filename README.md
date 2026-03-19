@@ -90,9 +90,12 @@ predict_heart_disease(input_data)
 ---
 
 ## 📊 Exploratory Data Analysis
-- Distribution plots for key features  
-- Correlation heatmap  
-- Feature importance visualization  
+- Distribution plots for key features
+  ![Age Distibution](images/age_distribution.png) 
+- Correlation heatmap
+  ![Correlation HeatMap](images/Correlation_Heatmap.png) 
+- Feature importance visualization
+  ![Feature Importance](images/feature__importance.png) 
 
 ---
 
@@ -107,8 +110,14 @@ predict_heart_disease(input_data)
 
 ---
 
+## 🚀 Final Results
+
+- Best Model: Random Forest
+- Accuracy: 87%
+- F1 Score: 85%
+
 ## 🏁 Conclusion
-This project demonstrates the application of machine learning in healthcare for early detection of heart disease.
+This project demonstrates the application of machine learning in healthcare for early detection of heart disease.This project demonstrates end-to-end machine learning pipeline from data preprocessing to prediction.
 
 By comparing multiple models and analyzing feature importance, the system provides meaningful insights that can assist in medical decision-making.
 
