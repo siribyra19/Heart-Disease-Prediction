@@ -95,7 +95,7 @@ predict_heart_disease(input_data)
 - Correlation heatmap
   ![Correlation HeatMap](images/Correlation_Heatmap.png) 
 - Feature importance visualization
-  ![Feature Importance](images/feature__importance.png) 
+  ![Feature Importance](images/feature__impotrance.png) 
 
 ---
 
